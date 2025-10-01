@@ -1,0 +1,4 @@
+NAMA    : Muhammad Firzano Aljaen
+GUGUS   : Golang
+
+Figma adalah ruang kolaborasi visual real-time, tempat ide dirancang, diuji, dan dihidupkan bersama—langsung di satu kanvas online. Bukan sekadar alat desain, tapi laboratorium ide digital lintas batas dan sistem operasi.
